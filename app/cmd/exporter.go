@@ -4,6 +4,8 @@ var rootCmd = &cobra.Command{
     Long: `A Fast and Flexible `,
     Run: func(cmd *cobra.Command, args []string) {
       //TODO :go-wget
+      //1 retrieve data from url 
+      //2 support recursive directory
     },
   }
   
